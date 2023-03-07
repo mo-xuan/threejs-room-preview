@@ -1,10 +1,9 @@
 <script setup>
-import SphereView from './components/SphereView.vue'
-
+import {RouterView} from 'vue-router';
 </script>
 
 <template>
-  <SphereView/>
+  <RouterView/>
 </template>
 
 <style>

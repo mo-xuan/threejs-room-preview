@@ -18,6 +18,11 @@ const router = createRouter({
       name: 'IslandsView',
       component: () => import('../components/IslandsView.vue'),
     },
+    {
+      path: '/car-view',
+      name: 'CarView',
+      component: () => import('../components/CarView.vue'),
+    },
   ],
 });
 

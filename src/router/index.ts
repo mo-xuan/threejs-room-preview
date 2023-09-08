@@ -28,6 +28,11 @@ const router = createRouter({
       name: 'SunEarthView',
       component: () => import('../components/SunEarthView.vue'),
     },
+    {
+      path: '/test',
+      name: 'Test',
+      component: () => import('../components/TestDemo.vue'),
+    },
   ],
 });
 

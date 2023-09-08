@@ -1,6 +1,6 @@
 {
-  "short_name": "threejs",
-  "name": "threejs",
+  "short_name": "three.js",
+  "name": "three.js",
   "icons": [
     {
       "src": "https://developer.mozilla.org/favicon-192x192.png",
